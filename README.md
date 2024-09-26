@@ -23,4 +23,3 @@ After launching you can also run E2E tests by using cypress command
 
 npm run cypress:open
 ```
-Live server: https://hacker-news-ssr.vercel.app/
